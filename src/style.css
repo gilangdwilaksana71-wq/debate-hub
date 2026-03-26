@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background: #f3f0ff; color: #5E006B; }
+#root { padding: 1rem; }
+button { border: 1px solid #5E006B; background: #FFF000; color: #5E006B; }
+button:hover { background: #fdf400; }
+button:disabled { opacity: 0.6; cursor: not-allowed; }

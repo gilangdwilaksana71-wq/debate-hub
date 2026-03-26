@@ -1,0 +1,82 @@
+[
+  {
+    "motion": "This House would abolish the death penalty",
+    "category": "politics",
+    "motion_id": "Dewan ini akan menghapus hukuman mati"
+  },
+  {
+    "motion": "This House supports universal basic income",
+    "category": "economy",
+    "motion_id": "Dewan ini mendukung pendapatan dasar universal"
+  },
+  {
+    "motion": "This House believes that social media does more harm than good",
+    "category": "technology",
+    "motion_id": "Dewan ini percaya bahwa media sosial lebih banyak mendatangkan bahaya daripada manfaat"
+  },
+  {
+    "motion": "This House would ban nuclear weapons",
+    "category": "international",
+    "motion_id": "Dewan ini akan melarang senjata nuklir"
+  },
+  {
+    "motion": "This House would allow religious education in public schools",
+    "category": "religion",
+    "motion_id": "Dewan ini akan memungkinkan pendidikan agama di sekolah negeri"
+  },
+  {
+    "motion": "This House supports the theory of evolution as science curriculum",
+    "category": "science",
+    "motion_id": "Dewan ini mendukung teori evolusi dalam kurikulum sains"
+  },
+  {
+    "motion": "This House believes that activism is an effective tool for social change",
+    "category": "social",
+    "motion_id": "Dewan ini percaya bahwa aktivisme adalah alat yang efektif untuk perubahan sosial"
+  },
+  {
+    "motion": "This House would fund public art over public infrastructure",
+    "category": "art",
+    "motion_id": "Dewan ini akan mendanai seni publik daripada infrastruktur publik"
+  },
+  {
+    "motion": "This House would make jury duty optional",
+    "category": "law",
+    "motion_id": "Dewan ini akan membuat kewajiban juri bersifat sukarela"
+  },
+  {
+    "motion": "This House believes mental health should be prioritized over physical health in healthcare policy",
+    "category": "psychology",
+    "motion_id": "Dewan ini percaya kesehatan mental harus diprioritaskan daripada kesehatan fisik dalam kebijakan kesehatan"
+  },
+  {
+    "motion": "This House would ban the sale of philosophy and ethics in favor of practical skills education",
+    "category": "philosophy",
+    "motion_id": "Dewan ini akan melarang penjualan filsafat dan etika demi pendidikan keterampilan praktis"
+  },
+  {
+    "motion": "This House believes celebrity culture does more harm than good",
+    "category": "pop",
+    "motion_id": "Dewan ini percaya bahwa budaya selebriti lebih banyak mendatangkan bahaya daripada manfaat"
+  },
+  {
+    "motion": "This House would prioritize cultural preservation over economic development",
+    "category": "culture",
+    "motion_id": "Dewan ini akan memprioritaskan pelestarian budaya daripada pembangunan ekonomi"
+  },
+  {
+    "motion": "This House believes in free love and would abolish marriage laws",
+    "category": "love",
+    "motion_id": "Dewan ini percaya pada cinta bebas dan akan menghapus hukum pernikahan"
+  },
+  {
+    "motion": "This House would make university tuition free",
+    "category": "education",
+    "motion_id": "Dewan ini akan membuat biaya kuliah gratis"
+  },
+  {
+    "motion": "This House would ban professional sports betting",
+    "category": "sports",
+    "motion_id": "Dewan ini akan melarang taruhan olahraga profesional"
+  }
+]
